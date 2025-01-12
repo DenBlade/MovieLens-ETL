@@ -49,7 +49,7 @@ Na zniženie počtu duplicitných záznamov bolo rozhodnuté spraviť bridge tab
 <p align="center">
   <img src="https://github.com/DenBlade/MovieLens-ETL/blob/main/MovieLens_Star.png" alt="Star Schema">
   <br>
-  <em>Obrázok 2 Schéma hviezdy pre AmazonBooks</em>
+  <em>Obrázok 2 Schéma hviezdy pre MovieLens</em>
 </p>
 
 ---
